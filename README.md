@@ -1,6 +1,6 @@
-# BO1 Zombies
+#  Zombies
 
-Decompiled engine code for Black Ops 1 Zombies, so mods can change the engine itself, not just scripts and maps.
+Decompiled engine code for  Zombies, so mods can change the engine itself, not just scripts and maps.
 
 ![](images/1.webp)
 
